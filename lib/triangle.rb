@@ -1,3 +1,23 @@
 class Triangle
-  # write code here
+  
+ attr_accessor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  class TriangleError < StandardError
+   
+  end
 end
